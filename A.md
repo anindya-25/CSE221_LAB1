@@ -2,10 +2,10 @@
   <h1>A. Odd or Even?</h1>
 </div>
 <div align="center">
-  <h3>time limit per test: 1 second</h3>
+  <h4>time limit per test: 1 second</h4>
 </div>
 <div align="center">
-  <h3>memory limit per test: 256 megabytes</h3>
+  <h4>memory limit per test: 256 megabytes</h4>
 </div>
 Do you know how to tell if a number is <b>Odd</b> or <b>Even</b>? You are given <b>T</b> numbers, and for each of those numbers, 
 you have to tell whether the number is odd or even.
